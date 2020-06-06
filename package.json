@@ -10,7 +10,7 @@
       "typescript": "3.6.4"
    },
    "dependencies": {
-      "apollo-server-express": "^2.9.6",
+      "apollo-server-express": "^2.14.2",
       "express": "^4.17.1",
       "graphql": "^14.5.8",
       "pg": "^7.12.1",
